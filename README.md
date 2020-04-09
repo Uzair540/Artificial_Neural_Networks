@@ -1,0 +1,3 @@
+# Artificial Neural Networks
+## Implementing Artificial_Neural_Networks  on the Data-Set of Churn Modelling
+It is no secret that customer retention is a top priority for many companies; acquiring new customers can be several times more expensive than retaining existing ones. Furthermore, gaining an understanding of the reasons customers churn and estimating the risk associated with individual customers are both powerful components of designing a data-driven retention strategy. A churn model can be the tool that brings these elements together and provides insights and outputs that drive decision making across an organization. So it is used to predict as to which customers will be leaving the bank
